@@ -1,0 +1,19 @@
+{
+    "name": "aivis-vigo/ur-app",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aivis-vigo",
+            "email": "aivisvigoreimarts@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+      "ext-readline": "*",
+        "ext-json": "*"
+    }
+}
